@@ -5,3 +5,4 @@ xgboost
 shap
 scikit-learn
 google-generativeai
+pdfplumber
